@@ -1,0 +1,12 @@
+{
+  "type": "Plugin",
+  "name": "JSON Utility Plugin",
+  "author": "FarLemon",
+  "author-discord-userid": "971051610543357973",
+  "repository": "https://github.com/FarLemon/Macro-Deck-JSON-Utility-Plugin",
+  "packageId": "FarLemon.JsonUtilityPlugin",
+  "version": "1.0.0",
+  "target-plugin-api-version": 40,
+  "target-macro-deck-version":  "2.14.1",
+  "dll": "JSON Utility Plugin.dll"
+}
