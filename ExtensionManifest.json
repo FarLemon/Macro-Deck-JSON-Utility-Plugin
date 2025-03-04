@@ -8,5 +8,5 @@
   "version": "1.0.0",
   "target-plugin-api-version": 40,
   "target-macro-deck-version":  "2.14.1",
-  "dll": "JSON Utility Plugin.dll"
+  "dll": "JSON_Utility_Plugin.dll"
 }
